@@ -1,3 +1,2 @@
 # pruebaAlele
-Olis
 Holala
